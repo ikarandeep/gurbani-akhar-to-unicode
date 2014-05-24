@@ -1,20 +1,4 @@
 # -*- coding: utf-8 -*-
-# get take the line
-# read the characters into a list
-# iterate through each list and convert the letter to unicode
-
-# def convert(letter):
-# 	l = letter
-# 	if letter == "a":
-# 		l = "ੳ"
-# 	elif letter == "A":
-# 		l = "ਅ"
-# 	if letter == "b":
-# 		l = ""
-# 	if letter == "g":
-# 		return "ਗ"
-
-# 	return l
 
 def convert(letter):
 	gurmukhi_english = ["a","A","b","B","c","C","d","D","e","E","f","F","g","G","h","H","i","I","j","J","k","K","l","L","m","M","n","N","o","O","p","P","q","Q","r","R","s","S","t","T","u","U","v","V","w","W","x","X","y","Y","z","Z"," "]
